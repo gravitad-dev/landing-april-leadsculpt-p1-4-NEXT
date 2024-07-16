@@ -25,7 +25,7 @@ export default function Footer() {
                   href="#0"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
-                  Únase a Leadsculpt hoy y descubra cómo la realidad virtual
+                  Únete a Leadsculpt hoy y descubra cómo la realidad virtual
                   puede transformar su desarrollo profesional.
                 </a>
               </li>
@@ -111,7 +111,7 @@ export default function Footer() {
         >
           {/* Copyrights note */}
           <div className="text-sm text-gray-600 mr-4">
-            &copy; Copyright 2021. Todos los derechos reservados.
+            &copy; Copyright 2024. Todos los derechos reservados.
           </div>
         </div>
       </div>
