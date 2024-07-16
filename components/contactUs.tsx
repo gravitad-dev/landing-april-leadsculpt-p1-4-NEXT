@@ -49,11 +49,11 @@ export default function ContactUs() {
             <div className="max-w-xs mx-auto">
               <a
                 className="btn text-white bg-black hover:bg-black-700 shadow w-full"
-                href="mailto:executivemastery@gmail.com"
+                href="https://leadsculpt.blog.jumpylife.com/contacto"
                 target="_blank"
                 rel="noreferrer"
               >
-                ¡Contact!
+                ¡Contáctanos!
               </a>
             </div>
           </div>

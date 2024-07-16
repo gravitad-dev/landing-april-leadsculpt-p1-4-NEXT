@@ -51,7 +51,7 @@ export default function Header() {
                   href="#hero"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Home
+                  Inicio
                 </a>
               </li>
               <li>
@@ -59,7 +59,7 @@ export default function Header() {
                   href="#features"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  About
+                  Sobre Nosotros
                 </a>
               </li>
               <li>
@@ -67,7 +67,7 @@ export default function Header() {
                   href="#features-blocks"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Services
+                  Servicios
                 </a>
               </li>
               <li>
@@ -82,20 +82,11 @@ export default function Header() {
               </li>
               <li>
                 <a
-                  href="#contact-us"
-                  className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
-                >
-                  Contact Us
-                </a>
-              </li>
-              <li>
-                <a
-                  href="mailto:executivemastery@gmail.com"
+                  href="https://leadsculpt.blog.jumpylife.com/contacto"
                   target="_blank"
-                  rel="noreferrer"
                   className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3"
                 >
-                  <span>Contact</span>
+                  <span>Contacto</span>
                 </a>
               </li>
             </ul>

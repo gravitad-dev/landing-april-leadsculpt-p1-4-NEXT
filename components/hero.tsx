@@ -56,7 +56,9 @@ export default function Hero() {
               >
                 {texts["section-two"].body}
               </p>
-              <div
+
+              {/*
+               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-start"
                 data-aos="zoom-y-out"
                 data-aos-delay="300"
@@ -70,6 +72,7 @@ export default function Hero() {
                   </a>
                 </div>
               </div>
+              */}
             </div>
           </div>
         </div>

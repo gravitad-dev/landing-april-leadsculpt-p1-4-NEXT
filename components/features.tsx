@@ -9,23 +9,23 @@ import { useState, useRef, useEffect } from "react";
 const cardsInfo = [
   {
     id: 1,
-    title: "Mission",
+    title: "Misión",
     description:
-      "Our mission is to transform the way leadership skills are developed, providing an unparalleled learning experience that transcends the boundaries of convention. We strive to empower the leaders of tomorrow with the tools and confidence necessary to meet the challenges of the ever-evolving business world.",
+      "Nuestra misión es transformar la forma en que se desarrollan las habilidades de liderazgo, brindando una experiencia de aprendizaje incomparable que trasciende los límites de lo convencional. Nos esforzamos por capacitar a los líderes del mañana con las herramientas y la confianza necesarias para enfrentar los desafíos del mundo empresarial en constante evolución.",
     icon: <HiOutlineLightBulb size={75} />,
   },
   {
     id: 2,
-    title: "Vision",
+    title: "Visión",
     description:
-      "We envision a future where every leader has access to a revolutionary platform that allows them to practice, hone and master their management skills in a realistic virtual environment. We want to be recognized as the gold standard in leadership training, driving individual and organizational success around the world.",
+      "Visualizamos un futuro en el que cada líder tenga acceso a una plataforma revolucionaria que les permita practicar, perfeccionar y dominar sus habilidades de gestión en un entorno virtual realista. Queremos ser reconocidos como el estándar de oro en la formación de liderazgo, impulsando el éxito individual y organizacional en todo el mundo.",
     icon: <ImStatsBars size={75} />,
   },
   {
     id: 3,
-    title: "What makes us different",
+    title: "¿Qué nos diferencia?",
     description:
-      "At Leadsculpt, we not only offer a virtual reality platform for management skills training, but we also provide a complete and personalized experience. Our attention to detail, our focus on quality and our passion for innovation set us apart in the market. In addition, our platform adapts to the specific needs of each client, guaranteeing effective and relevant learning.",
+      "En Leadsculpt no sólo ofrecemos una plataforma de realidad virtual para la formación en habilidades directivas, sino que también brindamos una experiencia completa y personalizada. Nuestra atención al detalle, nuestro enfoque en la calidad y nuestra pasión por la innovación nos distinguen en el mercado. Además, nuestra plataforma se adapta a las necesidades específicas de cada cliente, garantizando un aprendizaje efectivo y relevante.",
     icon: <IoMdPaper size={75} />,
   },
 ];

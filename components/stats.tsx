@@ -30,9 +30,10 @@ export default function Stats() {
             <div className="flex justify-start">
               <a
                 className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-0"
-                href="#0"
+                href="https://leadsculpt.blog.jumpylife.com/contacto"
+                target="blank_"
               >
-                Contact Us
+                Escríbenos
               </a>
             </div>
           </div>
@@ -46,7 +47,7 @@ export default function Stats() {
             <h4 className="text-4xl font-bold leading-snug tracking-tight mb-1 expressa">
               1005+
             </h4>
-            <p className="text-gray-600 text-center">Happy Clients</p>
+            <p className="text-gray-600 text-center">Clientes felices</p>
           </div>
           <div className="relative flex flex-col items-center p-6 bg-white border rounded shadow-xl w-60">
             <div
@@ -58,7 +59,7 @@ export default function Stats() {
             <h4 className="text-4xl font-bold leading-snug tracking-tight mb-1 expressa">
               20+
             </h4>
-            <p className="text-gray-600 text-center">Specialists</p>
+            <p className="text-gray-600 text-center">Especialistas</p>
           </div>
         </div>
       </div>
@@ -73,7 +74,7 @@ export default function Stats() {
             <h4 className="text-4xl font-bold leading-snug tracking-tight mb-1 expressa">
               10+
             </h4>
-            <p className="text-gray-600 text-center">Years of operation</p>
+            <p className="text-gray-600 text-center">Años de operación</p>
           </div>
           <div className="relative flex flex-col items-center p-6 bg-transparent border rounded shadow-xl w-60">
             <div className="rounded-full border-transparent bg-white p-6 mb-3">
@@ -82,7 +83,7 @@ export default function Stats() {
             <h4 className="text-4xl font-bold leading-snug tracking-tight mb-1 expressa">
               360+
             </h4>
-            <p className="text-gray-600 text-center">Projects delivered</p>
+            <p className="text-gray-600 text-center">Proyectos entregados</p>
           </div>
         </div>
       </div>

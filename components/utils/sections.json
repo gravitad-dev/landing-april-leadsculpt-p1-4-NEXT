@@ -1,169 +1,163 @@
-
 {
-    "section-one": {
-        "header": "",
-        "title": "Miguelangel",
-        "title2": "Herrera",
-        "navitems": "",
-        "item1": "Home",
-        "item2": "about",
-        "item3": "Services",
-        "item4": "Contact Us",
-        "button": "Book Appointment"
-        
-    }, 
-    "section-two": { 
-        "hero": "",
-        "title": "Lead the future with Leadsculpt",
-        "body": "where innovation meets experience.",
-        "button": "Discover Demo",
-        "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1715275799/VR%20Executive/ltsu1qd1bjia6pahsegv.png"
+  "section-one": {
+    "header": "",
+    "title": "Miguelangel",
+    "title2": "Herrera",
+    "navitems": "",
+    "item1": "Home",
+    "item2": "about",
+    "item3": "Services",
+    "item4": "Contact Us",
+    "button": "Book Appointment"
+  },
+  "section-two": {
+    "hero": "",
+    "title": "Lidera el futuro con Leadsculpt",
+    "body": "Donde la innovación se une a la experiencia.",
+    "button": "Descubre más",
+    "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1715275799/VR%20Executive/ltsu1qd1bjia6pahsegv.png"
+  },
+  "section-three": {
+    "features": "",
+    "title": "Sobre nosotros:",
+    "body": "En Leadsculpt, nos dedicamos a impulsar el liderazgo del mañana a través de la tecnología de punta. Somos pioneros en el desarrollo de una plataforma de realidad virtual diseñada específicamente para la formación en habilidades directivas. Con un equipo de expertos en tecnología y liderazgo, estamos comprometidos a llevar la capacitación ejecutiva a un nuevo nivel de inmersión y efectividad.",
+    "item1": {
+      "logo": "",
+      "title": "We Innovate",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
-    "section-three": {
-        "features": "",
-        "title": "About us:",
-        "body": "At Leadsculpt, we are dedicated to driving the leadership of tomorrow through the cutting edge of technology. We are pioneers in the development of a virtual reality platform designed specifically for management skills training. With a team of technology and leadership experts, we are committed to taking executive training to a new level of immersion and effectiveness.",
-        "item1": {
-            "logo": "",
-            "title": "We Innovate",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        "item2": {
-            "logo": "",
-            "title": "Performance",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        "item3": {
-            "logo": "",
-            "title": "A full Service",
-            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        }
+    "item2": {
+      "logo": "",
+      "title": "Performance",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
-    "section-four": {
-        "services": "",
-        "title": "Why trust us",
-        "body": "Trust Leadsculpt to take your leadership development to the next level. We have a team of technology and leadership experts who are committed to your success. Our platform has been tested and supported by industry leaders, and our customer support is second to none. With us, you can trust that you will receive a top-notch training experience that will make a difference in your career and your company.",
-        "items": [
-        {
-            "title": "Experience",
-            "body": "Immerse yourself in realistic situations that challenge you to develop your management skills."
-        },
-        
-        {
-            "title": "Instant Feedback",
-            "body": "Receive detailed feedback on your actions and decisions for constant growth."
-        },
-        {
-            "title": "Flexibility",
-            "body": " Access the platform from anywhere and at any time, adapting to your busy schedule."
-        },
-        {
-            "title": "Efficiency",
-            "body": "Learn faster and more effectively through repeated practice in a safe, controlled environment."
-        }
-      ]
-    },
-    "section-five": {
-        "contact": "",
-        "title": "Who has trusted us",
-        "body": "Leading companies in various industries, from innovative startups to Fortune 500 corporations, have trusted Leadsculpt to train their leaders and teams. Our clients include prominent names who recognize the value of technology and continuous training in business success.",
-        "body2": "Call Us +123 456 789",
-        "button": "¡Contact!"
-    },
-    "section-six": {
-        "stats": "",
-        "title": "Ready to take your leadership to the next level?",
-        "body": "Join Leadsculpt today and discover how virtual reality can transform your professional development.",
-        "button": "Contact Us"
-    },
-    "section-seven": {
-        "teamMembers": "",
-        "title": "Meet Our Experts",
-        "body": "At Leadsculpt, we are dedicated to revolutionizing management skills development. Our technology platform offers a unique immersive experience, where the leaders of tomorrow can train in a realistic virtual environment, facing challenges and making crucial decisions, all while receiving real-time feedback.",
-        "members" : [
-            {
-              "id": 1,
-              "name": "Tiara Lyodra",
-              "role": "Co-Founder",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 2,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 3,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 4,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 5,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 6,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 7,
-              "name": "Landon Coleman",
-              "role": "Finance Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            },
-            {
-              "id": 8,
-              "name": "Landon Coleman",
-              "role": "Real Estate Expert",
-              "image": "@/public/images/Member/onemember.jpg"
-            }
-          ]
-    },
-    "section-eight": {
-        "projects": "",
-        "title": "Projects",
-        "body": [
-            {
-                "id": 1,
-                "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/cndf3ttmphuufsixpxov.png",
-                "name": "Project Herrera",
-                "role": "Project 1 / Project"
-            }
-            
-        ]
-    },
-    "section-nine": {
-        "clients": "",
-        "title": "What Our Clients Say",
-        "body": "Leadership in a New Horizon: Leadsculpt",
-        "client1": {
-            "body": "“ Leadsculpt has been a game changer for me as a leader. The ability to practice difficult situations in a virtual environment has given me the confidence and skills necessary to face real-world challenges. “",
-            "name": "Ana G",
-            "role": "C E O"
-        }
-    },   
-    "section-ten": {
-        "band": "",
-        "title": "¿Ready to take your leadership to the next level?",
-        "body": "Join Leadsculpt today and discover how virtual reality can transform your professional development."
-    },
-    "section-eleven": {
-        "footer": "",
-        "title": "Miguelangel Herrera"
+    "item3": {
+      "logo": "",
+      "title": "A full Service",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     }
-    
-    
+  },
+  "section-four": {
+    "services": "",
+    "title": "¿Por qué confiar en nosotros?",
+    "body": "Confía en Leadsculpt para llevar el desarrollo de su liderazgo al siguiente nivel. Contamos con un equipo de expertos en tecnología y liderazgo que están comprometidos con su éxito. Nuestra plataforma ha sido probada y respaldada por líderes de la industria, y nuestra atención al cliente es insuperable. Con nosotros, puede confiar en que recibirá una experiencia de capacitación de primer nivel que marcará la diferencia en su carrera y su empresa.",
+    "items": [
+      {
+        "title": "Experiencia Inmersiva",
+        "body": "Sumérgete en situaciones realistas que te retan a desarrollar tus habilidades de gestión."
+      },
 
+      {
+        "title": "Comentarios instantáneos",
+        "body": "Reciba comentarios detallados sobre sus acciones y decisiones para un crecimiento constante."
+      },
+      {
+        "title": "Flexibilidad",
+        "body": "Accede a la plataforma desde cualquier lugar y en cualquier momento, adaptándote a tu apretada agenda."
+      },
+      {
+        "title": "Eficiencia",
+        "body": "Aprenda más rápido y más efectivamente a través de la práctica repetida en un ambiente seguro y controlado."
+      }
+    ]
+  },
+  "section-five": {
+    "contact": "",
+    "title": "¿Quien ha confiado en nosotros?",
+    "body": "Empresas líderes en diversas industrias, desde nuevas empresas innovadoras hasta corporaciones Fortune 500, han confiado en Leadsculpt para capacitar a sus líderes y equipos. Entre nuestros clientes se incluyen nombres destacados que reconocen el valor de la tecnología y la formación continua para el éxito empresarial.",
+    "body2": "Call Us +123 456 789",
+    "button": "¡Contact!"
+  },
+  "section-six": {
+    "stats": "",
+    "title": "¿Listo para llevar su liderazgo al siguiente nivel?",
+    "body": "Únase a Leadsculpt hoy y descubra cómo la realidad virtual puede transformar su desarrollo profesional.",
+    "button": "Escríbenos"
+  },
+  "section-seven": {
+    "teamMembers": "",
+    "title": "Meet Our Experts",
+    "body": "En Leadsculpt, nos dedicamos a revolucionar el desarrollo de habilidades gerenciales. Nuestra plataforma tecnológica ofrece una experiencia inmersiva única, donde los líderes del mañana pueden capacitarse en un entorno virtual realista, enfrentando desafíos y tomando decisiones cruciales, todo mientras reciben retroalimentación en tiempo real.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Tiara Lyodra",
+        "role": "Co-Founder",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Landon Coleman",
+        "role": "Finance Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Landon Coleman",
+        "role": "Real Estate Expert",
+        "image": "@/public/images/Member/onemember.jpg"
+      }
+    ]
+  },
+  "section-eight": {
+    "projects": "",
+    "title": "Proyectos",
+    "body": [
+      {
+        "id": 1,
+        "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/cndf3ttmphuufsixpxov.png",
+        "name": "Project Herrera",
+        "role": "Project 1 / Project"
+      }
+    ]
+  },
+  "section-nine": {
+    "clients": "",
+    "title": "Lo que dicen nuestros clientes",
+    "body": "Liderazgo en un nuevo horizonte: dominio ejecutivo de realidad virtual",
+    "client1": {
+      "body": "“ Leadsculpt ha cambiado las reglas del juego para mí como líder. La capacidad de practicar situaciones difíciles en un entorno virtual me ha dado la confianza y las habilidades necesarias para enfrentar los desafíos del mundo real. “",
+      "name": "Ana G",
+      "role": "C E O"
+    }
+  },
+  "section-ten": {
+    "band": "",
+    "title": "¿Listo para llevar su liderazgo al siguiente nivel?",
+    "body": "Únete a Leadsculpt hoy y descubre cómo la realidad virtual puede transformar tu desarrollo profesional."
+  },
+  "section-eleven": {
+    "footer": "",
+    "title": "Miguelangel Herrera"
+  }
 }

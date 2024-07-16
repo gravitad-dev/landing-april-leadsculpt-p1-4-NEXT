@@ -21,24 +21,28 @@ function Projects() {
         </figure>
         <div className="card-body">
           <h2 className="card-title">
-            FOOD WASTE REDUCTION THROUGH AUGMENTED REALITY
+            REDUCCIÓN DEL DESPERDICIO DE ALIMENTOS MEDIANTE REALIDAD AUMENTADA
           </h2>
           <p>
-            Imagine a world where reducing food waste is as simple as looking
-            through your smartphone. Our innovative solution harnesses the power
-            of augmented reality (AR) to tackle one of the most pressing global
-            challenges: food waste. With our AR technology, users can easily
-            visualize and track their food inventory, receive real-time
-            expiration alerts, and access personalized recipes based on
-            ingredients they already have. By empowering individuals to make
-            informed decisions about their food consumption and storage, we're
-            not only saving money and resources but also contributing to a more
-            sustainable future for all.
+            Imagine un mundo donde reducir el desperdicio de alimentos sea tan
+            simple como mirar a través de su teléfono inteligente. Nuestra
+            solución innovadora aprovecha el poder de la realidad aumentada (AR)
+            para abordar uno de los desafíos globales más apremiantes: el
+            desperdicio de alimentos. Con nuestra tecnología AR, los usuarios
+            pueden visualizar y rastrear fácilmente su inventario de alimentos,
+            recibir alertas de vencimiento en tiempo real y acceder a recetas
+            personalizadas basadas en los ingredientes que ya tienen. Al
+            capacitar a las personas para que tomen decisiones informadas sobre
+            su consumo y almacenamiento de alimentos, no solo ahorramos dinero y
+            recursos, sino que también contribuimos a un futuro más sostenible
+            para todos.
           </p>
           <div className="card-actions justify-end">
-            <button type="button" className="btn btn-primary">
-              Go
-            </button>
+            <a href="https://leadsculpt.blog.jumpylife.com" target="blank_">
+              <button type="button" className="btn btn-primary">
+                Ir
+              </button>
+            </a>
           </div>
         </div>
       </div>

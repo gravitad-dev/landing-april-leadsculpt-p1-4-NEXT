@@ -32,7 +32,7 @@ export default function Services() {
                   viewBox="0 0 64 64"
                   xmlns="http://www.w3.org/2000/svg"
                 >
-                  <title>{item.title}</title>
+                  <title className="">{item.title}</title>
                   <g fill="none" fillRule="evenodd">
                     <rect
                       className="fill-current text-white-600"
@@ -62,7 +62,7 @@ export default function Services() {
                     </g>
                   </g>
                 </svg>
-                <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
+                <h4 className="text-xl font-bold leading-snug tracking-tight mb-1 text-center">
                   {item.title}
                 </h4>
                 <p className="text-gray-600 text-center">{item.body}</p>

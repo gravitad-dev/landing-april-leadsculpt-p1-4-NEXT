@@ -16,7 +16,7 @@ export default function Testimonials() {
           viewBox="0 0 1760 518"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <title>client</title>
+          <title>cliente</title>
           <defs>
             <linearGradient
               x1="50%"
@@ -45,7 +45,7 @@ export default function Testimonials() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">What Our Clients Say</h2>
+            <h2 className="h2 mb-4">Lo que dicen nuestros clientes</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">
               {texts["section-nine"].body}
             </p>
